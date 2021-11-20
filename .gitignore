@@ -1,0 +1,13 @@
+secrets
+intro2ai
+data
+.vscode
+__pycache__
+
+latex/*.aux
+latex/*.log
+latex/*.pdf
+latex/*.out
+latex/*.bbl
+latex/*.blg
+latex/Makefile
